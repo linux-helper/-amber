@@ -1,0 +1,74 @@
+Signature-Version: 1.0
+Created-By: Android Gradle 8.0.2
+SHA-256-Digest-Manifest: wTuZ7/qWejs2rytcB2uxZHF0+vRrj2rzCuKSiv6PA1M=
+X-Android-APK-Signed: 2,3
+
+Name: AndroidManifest.xml
+SHA-256-Digest: huZ2Qo7XHwBU4RI+5hQorzg5BtKl/niJEvtEWp4IPM0=
+
+Name: assets/LoadGameEntrance.lua
+SHA-256-Digest: ltJAbMPxcOHOACCTFfFR4QaChwFokdaiWLUnmoizB00=
+
+Name: assets/init.lua
+SHA-256-Digest: W4KOxwNLp0foo71+pTSztXnhkD95fV7lQGy084rxWx4=
+
+Name: assets/main.lua
+SHA-256-Digest: UyR4fQcuDnFBrjYN1fXsF5gFFd9kPNPQPkb4In+Y+mI=
+
+Name: assets/sources-data/app-config.json
+SHA-256-Digest: 2z0iyADsmlAXjpilunSyS9V6mpEvWSr7W2AV+aww32A=
+
+Name: assets/sources-data/resources.arsc
+SHA-256-Digest: rZWDCc8MPEH5lMMbd4lFgXeIdKROT1gNBV7gUzA5hgw=
+
+Name: classes.dex
+SHA-256-Digest: CSJF2q0udMrKiqXSVmkHMwXuZ2LuTj/vm1soXjfGK60=
+
+Name: lib/arm64-v8a/libluajava.so
+SHA-256-Digest: XCkpm3ckWd20XQrY+L7iQ1l3kIOeQLer2gKZtbQbwX4=
+
+Name: lib/armeabi-v7a/libluajava.so
+SHA-256-Digest: UescSBEbf2b7j6mvvBrXDeA51P/8Ya4/Q3y3Rv9bogE=
+
+Name: lua/import.lua
+SHA-256-Digest: KUTo2Mv+G1u97oSK0UmFq1CUhsa8tUg4VOe78ddf3P0=
+
+Name: lua/json.lua
+SHA-256-Digest: sA9YMYgVsXZ+B404iyxk4Bh991jrzL2HJBpDaGxCtes=
+
+Name: lua/loadbitmap.lua
+SHA-256-Digest: IG/RyYtXmfcUZHQpA3MijvMvpQ6MvPt+96DDhVSrYEQ=
+
+Name: lua/loadlayout.lua
+SHA-256-Digest: 53/LQYsy7iLyDX55T04t+s6vyn7TArZJkRnf0bTMpYE=
+
+Name: lua/loadmenu.lua
+SHA-256-Digest: /pKruOnQ6oGagPJLWyjhGGw1re7mcezEEZXHsjhK2nI=
+
+Name: lua/zipr.lua
+SHA-256-Digest: 0LbVQBvcjfTHmYegQW9IRPohunnAWHHNVaO97EHIuKY=
+
+Name: res/drawable/ic_launcher.png
+SHA-256-Digest: 6HmwzjD+pGoSoDiD/ytfebnhWiExNp3edRf9vx9cKVM=
+
+Name: res/drawable/welcome.png
+SHA-256-Digest: zwnQLXzPpc0yM4P+wfnJaxuvyW6tNPtlbnQKcCBa7WI=
+
+Name: res/layout/activity_main.xml
+SHA-256-Digest: WH77kdyc1D2qQ/T3e73izhVAL6Z+9EzZcw0CfwMouNs=
+
+Name: res/layout/welcome.xml
+SHA-256-Digest: l76LyzBGDpsHT+NUUhCVXMG7tD0+1Ny1ETg/28zqzfY=
+
+Name: res/xml-v22/accessibility_service_config.xml
+SHA-256-Digest: weg+MmYGXe0153H21khMfpqBpXDr1GUZJeYxTXOTBR8=
+
+Name: res/xml/accessibility_service_config.xml
+SHA-256-Digest: ziHOxF4io5nijKduQ9rcQEJ1XtQaEq9GrYmDS1thRHI=
+
+Name: res/xml/androlua_filepaths.xml
+SHA-256-Digest: kOlyNzcZ4u9QJOQyJz40d1FnSfzKnfB75+wMJq0l3Y8=
+
+Name: resources.arsc
+SHA-256-Digest: kLSzh6mbJnsgXkH9MQX9OYFH7I5KVaL8d9QvFgEBOd4=
+
