@@ -1,0 +1,29 @@
+version: 2.9.3-dirty
+apkFileName: AMY.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+  tag: null
+sdkInfo:
+  minSdkVersion: 21
+  targetSdkVersion: 28
+packageInfo:
+  forcedPackageId: 127
+  renameManifestPackage: null
+versionInfo:
+  versionCode: 20072
+  versionName: 2.3.2
+resourcesAreCompressed: false
+sharedLibrary: false
+sparseResources: false
+unknownFiles:
+  lua/import.lua: 8
+  lua/json.lua: 8
+  lua/loadbitmap.lua: 8
+  lua/loadlayout.lua: 8
+  lua/loadmenu.lua: 8
+  lua/zipr.lua: 8
+doNotCompress:
+- resources.arsc
+- png
